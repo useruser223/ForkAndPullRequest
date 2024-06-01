@@ -1,1 +1,2 @@
 //kakvashe
+cchtodelat
